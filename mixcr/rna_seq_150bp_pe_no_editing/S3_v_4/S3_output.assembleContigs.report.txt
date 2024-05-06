@@ -1,0 +1,18 @@
+Analysis date: Thu Jan 11 10:05:19 UTC 2024
+Input file(s): /dsi/sbm/linoym/ovarian_tumor/mixcr/S3_v_4/S3_output.clna
+Output file(s): /dsi/sbm/linoym/ovarian_tumor/mixcr/S3_v_4/S3_output.contigs.clns
+Version: 4.5.0-61-develop; built=Wed Nov 15 01:37:33 UTC 2023; rev=e12e52c2c6; lib=repseqio.v3.0.1
+Command line arguments: assembleContigs --report /dsi/sbm/linoym/ovarian_tumor/mixcr/S3_v_4/S3_output.assembleContigs.report.txt --json-report /dsi/sbm/linoym/ovarian_tumor/mixcr/S3_v_4/S3_output.assembleContigs.report.json /dsi/sbm/linoym/ovarian_tumor/mixcr/S3_v_4/S3_output.clna /dsi/sbm/linoym/ovarian_tumor/mixcr/S3_v_4/S3_output.contigs.clns
+Analysis time: 3.2s
+Initial clonotype count: 2724
+Final clonotype count: 2724 (100%)
+Canceled assemblies: 0 (0%)
+Number of premature termination assembly events, percent of number of initial clonotypes: 0.0 (0%)
+Longest contig length: 691
+Clustered variants: 0 (0%)
+Reads in clustered variants: 0.0 (0%)
+Reads in divided (newly created) clones: 0.0 (0%)
+Clones with ambiguous letters in splitting region: 0 (0%)
+Reads in clones with ambiguous letters in splitting region: 0.0 (0%)
+Average number of ambiguous letters per clone with ambiguous letters in splitting region: NaN
+======================================

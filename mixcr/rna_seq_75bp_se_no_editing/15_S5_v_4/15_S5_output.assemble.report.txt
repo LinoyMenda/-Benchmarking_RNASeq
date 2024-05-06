@@ -1,0 +1,37 @@
+Analysis date: Sun Jan 28 15:15:22 UTC 2024
+Input file(s): /dsi/sbm/linoym/ovarian_tumor/mixcr/rna_seq_75bp_se_no_editing/15_S5_v_4/15_S5_output.extended.vdjca
+Output file(s): /dsi/sbm/linoym/ovarian_tumor/mixcr/rna_seq_75bp_se_no_editing/15_S5_v_4/15_S5_output.clna
+Version: 4.5.0-61-develop; built=Wed Nov 15 01:37:33 UTC 2023; rev=e12e52c2c6; lib=repseqio.v3.0.1
+Command line arguments: assemble --report /dsi/sbm/linoym/ovarian_tumor/mixcr/rna_seq_75bp_se_no_editing/15_S5_v_4/15_S5_output.assemble.report.txt --json-report /dsi/sbm/linoym/ovarian_tumor/mixcr/rna_seq_75bp_se_no_editing/15_S5_v_4/15_S5_output.assemble.report.json /dsi/sbm/linoym/ovarian_tumor/mixcr/rna_seq_75bp_se_no_editing/15_S5_v_4/15_S5_output.extended.vdjca /dsi/sbm/linoym/ovarian_tumor/mixcr/rna_seq_75bp_se_no_editing/15_S5_v_4/15_S5_output.clna
+Analysis time: 1.4s
+Final clonotype count: 868
+Reads used in clonotypes, percent of total: 1858 (0.01%)
+Average number of reads per clonotype: 2.14
+Reads dropped due to the lack of a clone sequence, percent of total: 7682 (0.03%)
+Reads dropped due to a too short clonal sequence, percent of total: 0 (0%)
+Reads dropped due to low quality, percent of total: 2 (0%)
+Reads dropped due to failed mapping, percent of total: 441 (0%)
+Reads dropped with low quality clones, percent of total: 0 (0%)
+Aligned reads processed: 2302
+Reads used in clonotypes before clustering, percent of total: 1859 (0.01%)
+Number of reads used as a core, percent of used: 1828 (98.33%)
+Mapped low quality reads, percent of used: 31 (1.67%)
+Reads clustered in PCR error correction, percent of used: 1 (0.05%)
+Reads pre-clustered due to the similar VJC-lists, percent of used: 0 (0%)
+Clonotypes dropped as low quality: 0
+Clonotypes eliminated by PCR error correction: 1
+Clonotypes pre-clustered due to the similar VJC-lists: 0
+Clones dropped in post filtering: 0 (0%)
+Reads dropped in post filtering: 0.0 (0%)
+Alignments filtered by tag prefix: 0 (0%)
+TRB chains: 1 (0.12%)
+TRB non-functional: 0 (0%)
+TRG chains: 5 (0.58%)
+TRG non-functional: 4 (80%)
+IGH chains: 254 (29.26%)
+IGH non-functional: 3 (1.18%)
+IGK chains: 381 (43.89%)
+IGK non-functional: 2 (0.52%)
+IGL chains: 227 (26.15%)
+IGL non-functional: 3 (1.32%)
+======================================

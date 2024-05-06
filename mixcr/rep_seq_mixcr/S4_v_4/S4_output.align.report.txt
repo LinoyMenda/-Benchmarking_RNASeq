@@ -1,0 +1,76 @@
+Analysis date: Sun Jan 14 19:58:34 UTC 2024
+Input file(s): /dsi/sbm/linoym/ovarian_tumor/rep_seq_tcr_data_files/merged_data_files/S4_R1.fastq,/dsi/sbm/linoym/ovarian_tumor/rep_seq_tcr_data_files/merged_data_files/S4_R2.fastq
+Output file(s): /dsi/sbm/linoym/ovarian_tumor/mixcr_for_rep_seq/S4_v_4/S4_output.vdjca
+Version: 4.5.0-61-develop; built=Wed Nov 15 01:37:33 UTC 2023; rev=e12e52c2c6; lib=repseqio.v3.0.1
+Command line arguments: align --report /dsi/sbm/linoym/ovarian_tumor/mixcr_for_rep_seq/S4_v_4/S4_output.align.report.txt --json-report /dsi/sbm/linoym/ovarian_tumor/mixcr_for_rep_seq/S4_v_4/S4_output.align.report.json --preset takara-human-rna-tcr-umi-smarter-v2 --save-output-file-names /dsi/sbm/linoym/ovarian_tumor/mixcr_for_rep_seq/S4_v_4/S4_output.align.list --species hs --assemble-clonotypes-by CDR3 /dsi/sbm/linoym/ovarian_tumor/rep_seq_tcr_data_files/merged_data_files/S4_R1.fastq /dsi/sbm/linoym/ovarian_tumor/rep_seq_tcr_data_files/merged_data_files/S4_R2.fastq /dsi/sbm/linoym/ovarian_tumor/mixcr_for_rep_seq/S4_v_4/S4_output.vdjca
+Analysis time: 5.05m
+Total sequencing reads: 5449756
+Successfully aligned reads: 4816073 (88.37%)
+Coverage (percent of successfully aligned):
+  CDR3: 99.35%
+  FR3_TO_FR4: 1.41%
+  CDR2_TO_FR4: 1.08%
+  FR2_TO_FR4: 0.05%
+  CDR1_TO_FR4: 0.01%
+  VDJRegion: 0.04%
+Alignment failed: no hits (not TCR/IG?): 375569 (6.89%)
+Alignment failed: absence of V hits: 213149 (3.91%)
+Alignment failed: absence of J hits: 29420 (0.54%)
+Alignment failed: no target with both V and J alignments: 15545 (0.29%)
+Overlapped: 415091 (7.62%)
+Overlapped and aligned: 102919 (1.89%)
+Overlapped and not aligned: 312172 (5.73%)
+Alignment-aided overlaps, percent of overlapped and aligned: 0 (0%)
+No CDR3 parts alignments, percent of successfully aligned: 272 (0.01%)
+Partial aligned reads, percent of successfully aligned: 30795 (0.64%)
+Chimeras: 77 (0%)
+V gene chimeras: 28131 (0.52%)
+J gene chimeras: 43 (0%)
+Paired-end alignment conflicts eliminated: 16474 (0.3%)
+Realigned with forced non-floating bound: 5034665 (92.38%)
+Realigned with forced non-floating right bound in left read: 145477 (2.67%)
+Realigned with forced non-floating left bound in right read: 145477 (2.67%)
+TRA chains: 2419285 (50.23%)
+TRA non-functional: 197408 (8.16%)
+TRB chains: 2396701 (49.76%)
+TRB non-functional: 85025 (3.55%)
+IGH chains: 9 (0%)
+IGH non-functional: 0 (0%)
+IGL chains: 1 (0%)
+IGL non-functional: 0 (0%)
+Trimming report:
+  R1 reads trimmed left: 330 (0.01%)
+  R1 reads trimmed right: 159 (0%)
+  Average R1 nucleotides trimmed left: 2.2129431115815092E-4
+  Average R1 nucleotides trimmed right: 6.440655324752154E-4
+  R2 reads trimmed left: 185 (0%)
+  R2 reads trimmed right: 297 (0.01%)
+  Average R2 nucleotides trimmed left: 3.1065611010841585E-4
+  Average R2 nucleotides trimmed right: 0.00243533838946184
+Tag parsing report:
+  Execution time: 0ns
+  Total reads: 5449756
+  Matched reads: 5449756 (100%)
+  Projection +R1 +R2: 5449756 (100%)
+  For variant 0:
+    For projection +R1 +R2:
+      R1:Left position: 5
+      R1:Right position:
+        100~149: + 519780 (9.54%) = 519780 (9.54%)
+        150: + 1160401 (21.29%) = 1680181 (30.83%)
+        151: + 3769575 (69.17%) = 5449756 (100%)
+      UMI:Left position: 0
+      UMI:Right position: 12
+      R2:Left position: 22
+      Variants: 0
+      Cost: 0
+      R1 length:
+        95~144: + 519780 (9.54%) = 519780 (9.54%)
+        145: + 1160401 (21.29%) = 1680181 (30.83%)
+        146: + 3769575 (69.17%) = 5449756 (100%)
+      UMI length: 12
+      R2 length:
+        13~127: + 497802 (9.13%) = 497802 (9.13%)
+        128: + 1404445 (25.77%) = 1902247 (34.91%)
+        129: + 3547509 (65.09%) = 5449756 (100%)
+======================================

@@ -1,0 +1,62 @@
+>>> Clone id: 93
+>>> Abundance, reads (fraction): 1.0 (0.004048582995951417)
+
+               <CDR3     V>   <D    D>     <J       CDR3>    
+                C  A  S  S  L  S  G  S  R  N  E  Q  Y  F     
+   Quality     765676777767776767576757777766676777777766    
+   Target0   0 TGTGCCAGCAGTCTCAGCGGGAGTCGAAACGAGCAGTACTTC 41   Score (hit score)
+ TRBV27*00 347 tgtgccagcagt                               358  60 (459)
+  TRBD2*00  22                agcgggag                    29   40 (40)
+TRBJ2-7*00  25                             acgagcagtacttc 38   70 (210)
+
+
+>>> Clone id: 94
+>>> Abundance, reads (fraction): 1.0 (0.004048582995951417)
+
+                               VP><D                          
+                <CDR3          V><VP D><J            CDR3>    
+                 C  A  S  S  L  A  G  L  T  G  E  L  F  F     
+    Quality     777777777677777777777777677777767777777777    
+    Target0   0 TGTGCCAGCAGCTTAGCGGGACTCACCGGGGAGCTGTTTTTT 41   Score (hit score)
+TRBV11-1*00 350 tgtgccagcagcttagcg                         367  90 (139)
+ TRBV7-9*00 350 tgtgccagcagcttagcg                         367  90 (139)
+   TRBD2*00  17                   ggact                    21   25 (25)
+ TRBJ2-2*00  24                        caccggggagctgtttttt 42   95 (235)
+
+
+>>> Clone id: 95
+>>> Abundance, reads (fraction): 1.0 (0.004048582995951417)
+
+               <CDR3    V>    <D  D> <J       CDR3>    
+                C  A  S  S  L  G  G  N  E  Q  Y  F     
+   Quality     777777777777777777777777777777777777    
+   Target0   0 TGTGCCAGCAGCCTCGGAGGGAACGAGCAGTACTTC 35   Score (hit score)
+ TRBV28*00 347 tgtgccagcag                          357  55 (304)
+  TRBD2*00  26                ggaggg                31   30 (30)
+TRBJ2-7*00  25                       acgagcagtacttc 38   70 (210)
+
+
+>>> Clone id: 147
+>>> Abundance, reads (fraction): 1.0 (0.004048582995951417)
+
+               <CDR3      V>       <J            CDR3>    
+                C  A  S  S  P  Q  R  N  T  E  A  F  F     
+   Quality     777777777677777777677777777777777777777    
+   Target0   0 TGCGCCAGCAGCCCTCAGAGGAACACTGAAGCTTTCTTT 38   Score (hit score)
+TRBV4-3*00 347 tgcgccagcagcc                           359  65 (1234)
+TRBJ1-1*00  21                     gaacactgaagctttcttt 39   95 (155)
+
+
+>>> Clone id: 165
+>>> Abundance, reads (fraction): 1.0 (0.004048582995951417)
+
+                <CDR3   V>    <D D>    <J      CDR3>    
+                 C  S  V  A  E  Q  A  R  T  Q  Y  F     
+    Quality     677777777777767777776777777777777777    
+    Target0   0 TGCAGCGTTGCCGAACAGGCGAGGACCCAGTACTTC 35   Score (hit score)
+TRBV29-1*00 341 tgcagcgttg                           350  50 (223)
+   TRBD1*00  15               acagg                  19   25 (25)
+ TRBJ2-5*00  27                        gacccagtacttc 39   65 (205)
+
+
+Filtered: 5 / 167 = 2.9940119760479043%

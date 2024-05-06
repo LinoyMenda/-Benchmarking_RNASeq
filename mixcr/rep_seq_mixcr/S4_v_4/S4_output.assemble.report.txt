@@ -1,0 +1,58 @@
+Analysis date: Sun Jan 14 20:22:12 UTC 2024
+Input file(s): /dsi/sbm/linoym/ovarian_tumor/mixcr_for_rep_seq/S4_v_4/S4_output.refined.vdjca
+Output file(s): /dsi/sbm/linoym/ovarian_tumor/mixcr_for_rep_seq/S4_v_4/S4_output.clns
+Version: 4.5.0-61-develop; built=Wed Nov 15 01:37:33 UTC 2023; rev=e12e52c2c6; lib=repseqio.v3.0.1
+Command line arguments: assemble --report /dsi/sbm/linoym/ovarian_tumor/mixcr_for_rep_seq/S4_v_4/S4_output.assemble.report.txt --json-report /dsi/sbm/linoym/ovarian_tumor/mixcr_for_rep_seq/S4_v_4/S4_output.assemble.report.json /dsi/sbm/linoym/ovarian_tumor/mixcr_for_rep_seq/S4_v_4/S4_output.refined.vdjca /dsi/sbm/linoym/ovarian_tumor/mixcr_for_rep_seq/S4_v_4/S4_output.clns
+Analysis time: 9.18m
+Final clonotype count: 64686
+Reads used in clonotypes, percent of total: 4335888 (79.56%)
+Average number of reads per clonotype: 67.03
+Reads dropped due to the lack of a clone sequence, percent of total: 44327 (0.81%)
+Reads dropped due to a too short clonal sequence, percent of total: 138 (0%)
+Reads dropped due to low quality, percent of total: 5 (0%)
+Reads dropped due to failed mapping, percent of total: 3895 (0.07%)
+Reads dropped with low quality clones, percent of total: 1191 (0.02%)
+Aligned reads processed: 4343189
+Reads used in clonotypes before clustering, percent of total: 4337960 (79.6%)
+Number of reads used as a core, percent of used: 4336009 (99.96%)
+Mapped low quality reads, percent of used: 1951 (0.04%)
+Reads clustered in PCR error correction, percent of used: 2072 (0.05%)
+Reads pre-clustered due to the similar VJC-lists, percent of used: 885 (0.02%)
+Clonotypes dropped as low quality: 58
+Clonotypes eliminated by PCR error correction: 117
+Clonotypes pre-clustered due to the similar VJC-lists: 104
+Clones dropped in post filtering: 0 (0%)
+Reads dropped in post filtering: 0.0 (0%)
+Alignments filtered by tag prefix: 0 (0%)
+TRA chains: 24232 (37.46%)
+TRA non-functional: 2961 (12.22%)
+TRB chains: 40452 (62.54%)
+TRB non-functional: 1971 (4.87%)
+Pre-clone assembler report:
+  Number of input groups: 239663
+  Number of input groups with no assembling feature: 1345
+  Number of input alignments: 4472912
+  Number of alignments with assembling feature: 4428585 (99.01%)
+  Number of output pre-clones: 244980
+  Number of pre-clonotypes per group:  
+    0: + 206 (0.09%) = 206 (0.09%)
+    1: + 231519 (97.15%) = 231725 (97.23%)
+    2: + 6318 (2.65%) = 238043 (99.88%)
+    3: + 275 (0.12%) = 238318 (100%)
+  Number of assembling feature sequences in groups with zero pre-clonotypes: 41151
+  Number of dropped pre-clones by tag suffix conflict: 0
+  Number of dropped alignments by tag suffix conflict: 0
+  Number of core alignments: 4339949 (97.03%)
+  Discarded core alignments: 88636 (2.04%)
+  Empirically assigned alignments: 3240 (0.07%)
+  Empirical assignment conflicts: 0 (0%)
+  Tag+VJ-gene empirically assigned alignments: 3240 (0.07%)
+  VJ-gene empirically assigned alignments: 0 (0%)
+  Tag empirically assigned alignments: 0 (0%)
+  Number of ambiguous groups: 6593
+  Number of ambiguous V-genes: 334
+  Number of ambiguous J-genes: 380
+  Number of ambiguous tag+V/J-gene combinations: 714
+  Ignored non-productive alignments: 0 (0%)
+  Unassigned alignments: 102364 (2.29%)
+======================================

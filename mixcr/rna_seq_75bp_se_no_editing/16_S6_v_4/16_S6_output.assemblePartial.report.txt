@@ -1,0 +1,42 @@
+Analysis date: Sun Jan 28 15:23:43 UTC 2024
+Input file(s): /dsi/sbm/linoym/ovarian_tumor/mixcr/rna_seq_75bp_se_no_editing/16_S6_v_4/16_S6_output.vdjca
+Output file(s): /dsi/sbm/linoym/ovarian_tumor/mixcr/rna_seq_75bp_se_no_editing/16_S6_v_4/16_S6_output.passembled.1.vdjca
+Version: 4.5.0-61-develop; built=Wed Nov 15 01:37:33 UTC 2023; rev=e12e52c2c6; lib=repseqio.v3.0.1
+Command line arguments: assemblePartial --report /dsi/sbm/linoym/ovarian_tumor/mixcr/rna_seq_75bp_se_no_editing/16_S6_v_4/16_S6_output.assemblePartial.report.txt --json-report /dsi/sbm/linoym/ovarian_tumor/mixcr/rna_seq_75bp_se_no_editing/16_S6_v_4/16_S6_output.assemblePartial.report.json /dsi/sbm/linoym/ovarian_tumor/mixcr/rna_seq_75bp_se_no_editing/16_S6_v_4/16_S6_output.vdjca /dsi/sbm/linoym/ovarian_tumor/mixcr/rna_seq_75bp_se_no_editing/16_S6_v_4/16_S6_output.passembled.1.vdjca
+Analysis time: 430ms
+Total alignments analysed: 8875
+Number of output alignments: 8862 (99.85%)
+Alignments already with CDR3 (no overlapping is performed): 2228 (25.1%)
+Successfully overlapped alignments: 13 (0.15%)
+Left parts with too small N-region (failed to extract k-mer): 2073 (23.36%)
+Extracted k-mer diversity: 6484
+Dropped due to wildcard in k-mer: 0 (0%)
+Dropped due to too short NRegion parts in overlap: 20 (0.23%)
+Dropped overlaps with empty N region due to no complete NDN coverage: 0 (0%)
+Number of left-side alignments: 1164 (13.12%)
+Number of right-side alignments: 3410 (38.42%)
+Complex overlaps: 0 (0%)
+Over-overlaps: 0 (0%)
+Partial alignments written to output: 6621 (74.6%)
+======================================
+Analysis date: Sun Jan 28 15:23:44 UTC 2024
+Input file(s): /dsi/sbm/linoym/ovarian_tumor/mixcr/rna_seq_75bp_se_no_editing/16_S6_v_4/16_S6_output.passembled.1.vdjca
+Output file(s): /dsi/sbm/linoym/ovarian_tumor/mixcr/rna_seq_75bp_se_no_editing/16_S6_v_4/16_S6_output.passembled.2.vdjca
+Version: 4.5.0-61-develop; built=Wed Nov 15 01:37:33 UTC 2023; rev=e12e52c2c6; lib=repseqio.v3.0.1
+Command line arguments: assemblePartial --report /dsi/sbm/linoym/ovarian_tumor/mixcr/rna_seq_75bp_se_no_editing/16_S6_v_4/16_S6_output.assemblePartial.report.txt --json-report /dsi/sbm/linoym/ovarian_tumor/mixcr/rna_seq_75bp_se_no_editing/16_S6_v_4/16_S6_output.assemblePartial.report.json /dsi/sbm/linoym/ovarian_tumor/mixcr/rna_seq_75bp_se_no_editing/16_S6_v_4/16_S6_output.passembled.1.vdjca /dsi/sbm/linoym/ovarian_tumor/mixcr/rna_seq_75bp_se_no_editing/16_S6_v_4/16_S6_output.passembled.2.vdjca
+Analysis time: 165ms
+Total alignments analysed: 8862
+Number of output alignments: 8862 (100%)
+Alignments already with CDR3 (no overlapping is performed): 2241 (25.29%)
+Successfully overlapped alignments: 0 (0%)
+Left parts with too small N-region (failed to extract k-mer): 2073 (23.39%)
+Extracted k-mer diversity: 6460
+Dropped due to wildcard in k-mer: 0 (0%)
+Dropped due to too short NRegion parts in overlap: 20 (0.23%)
+Dropped overlaps with empty N region due to no complete NDN coverage: 0 (0%)
+Number of left-side alignments: 1151 (12.99%)
+Number of right-side alignments: 3397 (38.33%)
+Complex overlaps: 0 (0%)
+Over-overlaps: 0 (0%)
+Partial alignments written to output: 6621 (74.71%)
+======================================

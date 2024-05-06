@@ -1,0 +1,34 @@
+Analysis date: Sun Jan 14 19:51:06 UTC 2024
+Input file(s): /dsi/sbm/linoym/ovarian_tumor/mixcr_for_rep_seq/S1_v_4/S1_output.vdjca
+Output file(s): /dsi/sbm/linoym/ovarian_tumor/mixcr_for_rep_seq/S1_v_4/S1_output.refined.vdjca
+Version: 4.5.0-61-develop; built=Wed Nov 15 01:37:33 UTC 2023; rev=e12e52c2c6; lib=repseqio.v3.0.1
+Command line arguments: refineTagsAndSort --report /dsi/sbm/linoym/ovarian_tumor/mixcr_for_rep_seq/S1_v_4/S1_output.refine.report.txt --json-report /dsi/sbm/linoym/ovarian_tumor/mixcr_for_rep_seq/S1_v_4/S1_output.refine.report.json /dsi/sbm/linoym/ovarian_tumor/mixcr_for_rep_seq/S1_v_4/S1_output.vdjca /dsi/sbm/linoym/ovarian_tumor/mixcr_for_rep_seq/S1_v_4/S1_output.refined.vdjca
+Analysis time: 1.35m
+Time spent in correction: 46.46s
+Number of input records: 963323
+Number of output records: 921486 (95.66%)
+UMI correction report:
+  UMI input diversity: 49474
+  UMI output diversity: 36557 (73.89%)
+  UMI input reads: 963323
+  UMI output reads: 963208 (99.99%)
+  UMI mean reads per tag: 19.47
+  UMI input core diversity: 48450 (97.93%)
+  UMI input core reads: 962297 (99.89%)
+  UMI directly corrected diversity: 12802 (25.88%)
+  UMI directly corrected reads: 13744 (1.43%)
+  UMI diversity filtered by tag quality: 115 (0.23%)
+  UMI reads filtered by tag quality: 115 (0.01%)
+  UMI diversity filtered by whitelist: 0 (0%)
+  UMI recursively corrected: 218
+Filter report:
+  Number of groups: 36557
+  Number of groups accepted: 11774 (32.21%)
+  Total records weight: 963208
+  Records weight accepted: 921486 (95.67%)
+  Operator #0:
+    Effective threshold: 8.0
+    Nested thresholds:
+      #0: 8
+      #1: 40
+======================================

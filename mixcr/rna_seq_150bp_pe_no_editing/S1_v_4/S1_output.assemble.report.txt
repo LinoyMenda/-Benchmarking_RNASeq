@@ -1,0 +1,37 @@
+Analysis date: Thu Jan 11 09:08:41 UTC 2024
+Input file(s): /dsi/sbm/linoym/ovarian_tumor/mixcr/S1_v_4/S1_output.extended.vdjca
+Output file(s): /dsi/sbm/linoym/ovarian_tumor/mixcr/S1_v_4/S1_output.clna
+Version: 4.5.0-61-develop; built=Wed Nov 15 01:37:33 UTC 2023; rev=e12e52c2c6; lib=repseqio.v3.0.1
+Command line arguments: assemble --report /dsi/sbm/linoym/ovarian_tumor/mixcr/S1_v_4/S1_output.assemble.report.txt --json-report /dsi/sbm/linoym/ovarian_tumor/mixcr/S1_v_4/S1_output.assemble.report.json /dsi/sbm/linoym/ovarian_tumor/mixcr/S1_v_4/S1_output.extended.vdjca /dsi/sbm/linoym/ovarian_tumor/mixcr/S1_v_4/S1_output.clna
+Analysis time: 450ms
+Final clonotype count: 167
+Reads used in clonotypes, percent of total: 247 (0%)
+Average number of reads per clonotype: 1.48
+Reads dropped due to the lack of a clone sequence, percent of total: 443 (0%)
+Reads dropped due to a too short clonal sequence, percent of total: 0 (0%)
+Reads dropped due to low quality, percent of total: 1 (0%)
+Reads dropped due to failed mapping, percent of total: 83 (0%)
+Reads dropped with low quality clones, percent of total: 1 (0%)
+Aligned reads processed: 332
+Reads used in clonotypes before clustering, percent of total: 247 (0%)
+Number of reads used as a core, percent of used: 245 (99.19%)
+Mapped low quality reads, percent of used: 2 (0.81%)
+Reads clustered in PCR error correction, percent of used: 0 (0%)
+Reads pre-clustered due to the similar VJC-lists, percent of used: 0 (0%)
+Clonotypes dropped as low quality: 1
+Clonotypes eliminated by PCR error correction: 0
+Clonotypes pre-clustered due to the similar VJC-lists: 0
+Clones dropped in post filtering: 0 (0%)
+Reads dropped in post filtering: 0.0 (0%)
+Alignments filtered by tag prefix: 0 (0%)
+TRA chains: 1 (0.6%)
+TRA non-functional: 0 (0%)
+TRB chains: 5 (2.99%)
+TRB non-functional: 0 (0%)
+IGH chains: 32 (19.16%)
+IGH non-functional: 1 (3.12%)
+IGK chains: 95 (56.89%)
+IGK non-functional: 0 (0%)
+IGL chains: 34 (20.36%)
+IGL non-functional: 0 (0%)
+======================================

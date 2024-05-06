@@ -1,0 +1,2 @@
+
+  Alignments dropped due to low sequence quality: 0.0% [OK]

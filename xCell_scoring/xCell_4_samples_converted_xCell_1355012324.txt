@@ -1,0 +1,68 @@
+	S1	S2	S3	S4
+Adipocytes	0.1768	0	0.1111	0.0187
+Astrocytes	0.0214	0.0136	0	0.0262
+B-cells	0	0	0.109	0.1794
+Basophils	0	0.0147	0	0.0982
+CD4+ T-cells	0	0.022	0.2402	0.4315
+CD4+ Tcm	0	0	0.1388	0.1303
+CD4+ Tem	0.076	0	0.388	0.4845
+CD4+ memory T-cells	0.1032	0	0.2964	0.6017
+CD4+ naive T-cells	0	0.0216	0.053	0.1742
+CD8+ T-cells	0	0.0546	0	0.169
+CD8+ Tcm	0	0.0604	0.0436	0.2372
+CD8+ Tem	0.1599	0	0.1167	0.3894
+CD8+ naive T-cells	0	0.0108	0.0638	0
+CLP	0.0229	0.0385	0	0.0241
+CMP	0.0151	0.0102	0	0
+Chondrocytes	0.298	0.0968	0	0.0568
+Class-switched memory B-cells	0	0.0269	0.1924	0.195
+DC	0.1358	0	0.0077	0.3086
+Endothelial cells	0.2595	0	0.0995	0
+Eosinophils	0	0	0.2832	0
+Epithelial cells	0	0.2244	0.165	0
+Erythrocytes	0.021	0	0	0
+Fibroblasts	0.3723	0	0	0
+GMP	0.1909	0	0.1188	0.1187
+HSC	0.2449	0	0	0
+Hepatocytes	0	0	0.032	0
+Keratinocytes	0	0.1738	0.114	0.0217
+MEP	0	0	0	0
+MPP	0.0583	0	0.1762	0.3246
+MSC	0.3366	0.1364	0	0.1524
+Macrophages	0.1486	0	0	0.2859
+Macrophages M1	0.109	0	0.0179	0.1527
+Macrophages M2	0	0	0	0.1267
+Mast cells	0	0.009	0	0.0253
+Megakaryocytes	0.0848	0.122	0.0905	0
+Melanocytes	0.0048	0	0	0
+Memory B-cells	0.0248	0	0.0387	0.0772
+Mesangial cells	0.1018	0.1581	0	0.0706
+Monocytes	0.0851	0	0.1386	0.0939
+Myocytes	0.0713	0	0	0
+NK cells	0.0195	0	0.0081	0.1558
+NKT	0	0	0.0367	0.1168
+Neurons	0.0253	0.0439	0.003	0
+Neutrophils	0.0136	0	0.3847	0.0659
+Osteoblast	0.0341	0.2271	0	0.144
+Pericytes	0.0933	0	0	0
+Plasma cells	0	0	0.1338	0.0374
+Platelets	0	0.026	0.0202	0
+Preadipocytes	0.0539	0	0.1245	0
+Sebocytes	0	9.00E-04	0.0154	0
+Skeletal muscle	0.0578	0	0	0
+Smooth muscle	0	0.0714	0	0
+Tgd cells	0.1614	0	0.0552	0.2542
+Th1 cells	0.046	0	0	0.0471
+Th2 cells	0.0801	0	0.0674	0.1076
+Tregs	0.0064	0	0	0.0861
+aDC	0.2334	0	0.0765	0.3
+cDC	0.0189	0	0	0.2252
+iDC	0.0639	0	0.0135	0.0655
+ly Endothelial cells	0.1757	0	0.148	0
+mv Endothelial cells	0.2659	0	0.2597	0.0993
+naive B-cells	0	0	0	0.0232
+pDC	0.1124	0	0.0213	0.2383
+pro B-cells	0.0645	0	0	0.0684
+ImmuneScore	0.2684	0.0571	0.781	1.1435
+StromaScore	0.4043	0	0.1053	0.0094
+MicroenvironmentScore	0.6727	0.0571	0.8863	1.1529

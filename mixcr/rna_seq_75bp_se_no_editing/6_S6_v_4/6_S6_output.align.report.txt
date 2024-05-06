@@ -1,0 +1,45 @@
+Analysis date: Sun Jan 28 16:42:19 UTC 2024
+Input file(s): /dsi/sbm/linoym/ovarian_tumor/rna_seq_data_75bp_single_end/merged_data_files/6_S6_R1_001.fastq.gz
+Output file(s): /dsi/sbm/linoym/ovarian_tumor/mixcr/rna_seq_75bp_se_no_editing/6_S6_v_4/6_S6_output.vdjca
+Version: 4.5.0-61-develop; built=Wed Nov 15 01:37:33 UTC 2023; rev=e12e52c2c6; lib=repseqio.v3.0.1
+Command line arguments: align --report /dsi/sbm/linoym/ovarian_tumor/mixcr/rna_seq_75bp_se_no_editing/6_S6_v_4/6_S6_output.align.report.txt --json-report /dsi/sbm/linoym/ovarian_tumor/mixcr/rna_seq_75bp_se_no_editing/6_S6_v_4/6_S6_output.align.report.json --preset rna-seq --save-output-file-names /dsi/sbm/linoym/ovarian_tumor/mixcr/rna_seq_75bp_se_no_editing/6_S6_v_4/6_S6_output.align.list --species hs /dsi/sbm/linoym/ovarian_tumor/rna_seq_data_75bp_single_end/merged_data_files/6_S6_R1_001.fastq.gz /dsi/sbm/linoym/ovarian_tumor/mixcr/rna_seq_75bp_se_no_editing/6_S6_v_4/6_S6_output.vdjca
+Analysis time: 9.91m
+Total sequencing reads: 35686357
+Successfully aligned reads: 200 (0%)
+Coverage (percent of successfully aligned):
+  CDR3: 19%
+  FR3_TO_FR4: 0%
+  CDR2_TO_FR4: 0%
+  FR2_TO_FR4: 0%
+  CDR1_TO_FR4: 0%
+  VDJRegion: 0%
+Alignment failed: no hits (not TCR/IG?): 35079822 (98.3%)
+Alignment failed: no CDR3 parts: 9888 (0.03%)
+Alignment failed: low total score: 596447 (1.67%)
+Overlapped: 0 (0%)
+Overlapped and aligned: 0 (0%)
+Overlapped and not aligned: 0 (0%)
+Alignment-aided overlaps, percent of overlapped and aligned: 0 (NaN%)
+No CDR3 parts alignments, percent of successfully aligned: 19 (9.5%)
+Partial aligned reads, percent of successfully aligned: 143 (71.5%)
+Realigned with forced non-floating bound: 0 (0%)
+Realigned with forced non-floating right bound in left read: 0 (0%)
+Realigned with forced non-floating left bound in right read: 0 (0%)
+TRA chains: 4 (2%)
+TRA non-functional: 0 (0%)
+TRB chains: 37 (18.5%)
+TRB non-functional: 0 (0%)
+TRG chains: 1 (0.5%)
+TRG non-functional: 0 (0%)
+IGH chains: 60 (30%)
+IGH non-functional: 0 (0%)
+IGK chains: 48 (24%)
+IGK non-functional: 0 (0%)
+IGL chains: 50 (25%)
+IGL non-functional: 0 (0%)
+Trimming report:
+  R1 reads trimmed left: 16294 (0.05%)
+  R1 reads trimmed right: 3172 (0.01%)
+  Average R1 nucleotides trimmed left: 0.0017958403543404556
+  Average R1 nucleotides trimmed right: 7.823437959778299E-4
+======================================
