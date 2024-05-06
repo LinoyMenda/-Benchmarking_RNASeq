@@ -1,0 +1,2 @@
+sequence_id	sequence	rev_comp	productive	locus	v_call	d_call	j_call	c_call	sequence_alignment	germline_alignment	cdr1	cdr2	junction	junction_aa	v_cigar	d_cigar	j_cigar	v_identity	j_identity	cell_id	complete_vdj	consensus_count
+assemble3820_0	GGCGCCGAGGACACGGCTGTGTATCACTGTGTAAAAGATCGGGAACTCGTCCACTGGGGCCAGGGAATTCTGGTC	F	T	IGH	IGHV3-33*03	IGHD2/OR15-2b*01							TGTGTAAAAGATCGGGAACTCGTCCACTGG	CVKDRELVHW	3S261N35M37S	29S7N8M38S16N		96.55			F	1
